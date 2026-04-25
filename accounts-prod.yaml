@@ -5,6 +5,6 @@ accounts:
   message: "Welcome to MiniBank accounts related prod APIs"
   contactDetails:
     name: "Son Dang - Product Owner"
-    email: "dangngocson29062003@gmail.com"
+    email: "{cipher}afe3d7e1e1f273d1230f6cf763b7bd8c4e665e2ac42e8c67cd95d78900d8be96af9f2b3a9636d16b2009b385a1328ca3"
   onCallSupport:
     - 0793610514
